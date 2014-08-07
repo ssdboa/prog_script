@@ -1,4 +1,4 @@
 prog_script
 ===========
 
-Repositório para aula de Programação Script
+Repositório para as aulas de Programação em Script.
